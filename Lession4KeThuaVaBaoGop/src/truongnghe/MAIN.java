@@ -13,7 +13,6 @@ public class MAIN
         HUMAN human;
         
         ArrayList<HUMAN> list = new ArrayList<HUMAN>();
-        ArrayList<HUMAN> list2 = new ArrayList<HUMAN>();
         
         do
         {
